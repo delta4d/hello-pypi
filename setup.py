@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "delta hello pypi",
-    version = "0.0.1",
+    version = "0.0.2",
     description = "a simple python package",
     long_description = 'hello pypi, a simple python package',
     url = "https://github.com/delta4d/hello-pypi",

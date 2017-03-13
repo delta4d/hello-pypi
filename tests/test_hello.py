@@ -1,4 +1,4 @@
-from HelloPyPI import hello
+from hello.hello import hello
 
-assert "Hello PyPI" == hello.hello()
-assert "Hello github" == hello.hello("github")
+assert "Hello PyPI" == hello()
+assert "Hello github" == hello("github")

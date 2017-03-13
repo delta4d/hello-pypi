@@ -18,7 +18,7 @@ Usage
 
 ::
 
-    from HelloPyPI import hello.hello
+    from hello import hello
 
     print(hello("PyPI")) # => Hello PyPI
 
