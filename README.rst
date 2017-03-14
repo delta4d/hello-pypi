@@ -16,11 +16,25 @@ Install
 Usage
 =====
 
+Lib
+~~~
+
 ::
 
     from hello.hello import hello
 
     print(hello("PyPI")) # => Hello PyPI
+
+Executable
+~~~~~~~~~~
+
+::
+
+    $ hello alpha beta lambda
+    Hello PyPI
+    Hello alpha
+    Hello beta
+    Hello lambda
 
 Reference
 =========
